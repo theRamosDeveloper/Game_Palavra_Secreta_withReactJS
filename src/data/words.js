@@ -1,0 +1,21 @@
+export const wordsList = {
+    carro: ["Motor", "Porta", "Capô", "Pneu", "Antena"],
+    fruta: ["Banana", "Maçã", "Pêra", "Mamão", "Laranja"],
+    corpo: ["Braço", "Perna", "Cérebro", "Pescoço", "Olhos"],
+    computador: ["Mouse", "Teclado", "Monitor", "Cabos"],
+    profissão: ["Pedreiro", "Médico", "Professor", "Programador"],
+    alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
+    casa: ["Cadeira", "Sofá", "Balcão", "Televisão", "Panela"],
+    cor: ["Azul", "Marrom", "Laranja", "Roxo", "Branco"],
+    capital_estados: ["Manaus", "Brasília", "Belém", "Rio-Branco", "Curitiba"],
+    roupa: ["Colete", "Meia", "Moletom", "Vestido", "Blusão"],
+    sala_de_aula: ["Giz", "Quadro", "Cadeira", "Porta", "Estoujo"],
+    país: ["Chile", "Japão", "Croácia", "Peru", "Irã"],
+    nome_de_pessoa: ["Juca", "Marcos", "Vagner", "Gabriel", "Camila"],
+    estilo_musical: ["Tango", "Xote", "Valsa", "Marcha", "Milonga"],
+    animal: ["Onça", "Baleia", "Servo", "Hiena", "Lobo"],
+    esportes: ["Futebol", "Vôlei", "Tênis", "Golfe", "Futsal"],
+    cidade: ["Igreja", "Hospital", "Prefeitura", "Biblioteca", "Casas"],
+    heróis_vilões: ["Batman", "Spiderman", "Coringa", "Hulk", "Flash"],
+    instrumento_musical: ["Guitarra", "Gaita", "Baixo", "Violão", "Bateria"]
+  };
